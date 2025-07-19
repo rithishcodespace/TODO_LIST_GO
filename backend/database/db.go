@@ -2,7 +2,7 @@ package database
 
 import (
 	"log"
-	"todo_list/models"
+	"server.go/models"
 
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
